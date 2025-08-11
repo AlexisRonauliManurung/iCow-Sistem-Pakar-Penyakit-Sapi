@@ -20,19 +20,6 @@ iCow adalah sistem pakar berbasis web yang dirancang untuk membantu peternak ata
   - **Daftar Penyakit Lain**: Selain penyakit utama, sistem juga menampilkan daftar penyakit lain yang mungkin cocok dengan gejala yang ada.
   - **Riwayat Diagnosis**: Setiap hasil diagnosis akan disimpan ke dalam database untuk keperluan pencatatan.
 
-## Tampilan Aplikasi
-
-\<table\>
-\<tr\>
-\<td\>\<img src="[httpsis.com/api/screenshots/capture?url=https%3A%2F%2Fgithub.com%2FAlexisRonauliManurung%2FiCow-Sistem-Pakar-Penyakit-Sapi\&width=800](https://www.google.com/search?q=https://httpsis.com/api/screenshots/capture%3Furl%3Dhttps%253A%252F%252Fgithub.com%252FAlexisRonauliManurung%252FiCow-Sistem-Pakar-Penyakit-Sapi%26width%3D800)" alt="Halaman Utama"\>\</td\>
-\<td\>\<img src="[httpsis.com/api/screenshots/capture?url=https%3A%2F%2Fgithub.com%2FAlexisRonauliManurung%2FiCow-Sistem-Pakar-Penyakit-Sapi%2Fblob%2Fmain%2Fdiagnosa.php\&width=800](https://www.google.com/search?q=https://httpsis.com/api/screenshots/capture%3Furl%3Dhttps%253A%252F%252Fgithub.com%252FAlexisRonauliManurung%252FiCow-Sistem-Pakar-Penyakit-Sapi%252Fblob%252Fmain%252Fdiagnosa.php%26width%3D800)" alt="Proses Diagnosa"\>\</td\>
-\</tr\>
-\<tr\>
-\<td align="center"\>\<i\>Halaman Utama\</i\>\</td\>
-\<td align="center"\>\<i\>Proses Diagnosa\</i\>\</td\>
-\</tr\>
-\</table\>
-
 ## Alur Kerja Sistem
 
 1.  **Mulai Diagnosa**: Pengguna memulai sesi diagnosa dari halaman utama atau halaman diagnosa.
